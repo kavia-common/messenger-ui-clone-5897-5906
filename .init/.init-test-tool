@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/messenger-ui-clone-5897-5906/messenger_clone_frontend"
+}
